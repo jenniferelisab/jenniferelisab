@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Jennifer Elisabeth</h1>
-<p align="center">Role/Status: Peserta Workshop Git & GitHub | Junior Frontend Enthusiast</p>
+<p align="center">Role/Status: Git & GitHub Workshop Participant | Junior Frontend Enthusiast</p>
 
 ---
 
